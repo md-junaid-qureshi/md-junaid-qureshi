@@ -14,7 +14,7 @@
 
 ## 🌐 Socials:
 <div align="center" style="margin-top:10px;">
-  <a href="https://linkedin.com/in/junaid-qureshi110" target="_blank" style="margin:10px;">
+  <a href="https://linkedin.com/in/md-junaid-qureshi" target="_blank" style="margin:10px;">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
@@ -48,16 +48,16 @@
 
   <h2 align="center">📊 GitHub Stats</h2>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=junaid-qureshi110&theme=dark&hide_border=false&include_all_commits=true&count_private=false" /><br/>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=junaid-qureshi110&theme=dark&hide_border=false" /><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaid-qureshi110&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=md-junaid-qureshi&theme=dark&hide_border=false&include_all_commits=true&count_private=false" /><br/>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=md-junaid-qureshi&theme=dark&hide_border=false" /><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-junaid-qureshi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
   </p>
 
   <br>
   
   <h2 align="center">🏆 GitHub Trophies</h2>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=junaid-qureshi110&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=md-junaid-qureshi&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
   </p>
 
 <br>
@@ -71,9 +71,9 @@
 
 ---
 <picture>
-<source media=" (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/junaid-qureshi110/junaid-qureshi110/output/github-snake-dark.svg" />
-<source media=" (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/junaid-qureshi110/junaid-qureshi110/output/github-snake.svg" />
-<img alt="github-snake" src="https : l/raw. githubusercontent.com/junaid-qureshi110/junaid-qureshi110/output/github-snake.svg" />
+<source media=" (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/md-junaid-qureshi/md-junaid-qureshi/output/github-snake-dark.svg" />
+<source media=" (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/md-junaid-qureshi/md-junaid-qureshi/output/github-snake.svg" />
+<img alt="github-snake" src="https : l/raw. githubusercontent.com/md-junaid-qureshi/md-junaid-qureshi/output/github-snake.svg" />
 </picture>
 
 
